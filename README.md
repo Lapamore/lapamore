@@ -1,11 +1,3 @@
-<a href='https://vk.com/parisdrill'><img align='left' alt="linkedin" src="assets/vk.png" height='20px'/></a>
-
-<a href='https://t.me/leshiov_dmitriy'><img align='left' alt="twitter" src="assets/telegram.png" height='20px'/></a>
-
-<a href='https://www.kaggle.com/dima123s'><img alt="kaggle" src="assets/kaggle.svg" height='20px'/></a>
-
-<br/>
-
 ### 🔨 Языки и фреймворки:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height="42px" src="https://github.com/Lapamore/lapamore/blob/main/assets/r.png"></a>
